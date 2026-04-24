@@ -82,7 +82,7 @@ if st.button("🔮 Predict Score"):
     # -------------------------------
     # Input Visualization Graph
     # -------------------------------
-    st.subheader("📊 Your Input Overview")
+    st.subheader("📊 Input Overview")
 
     input_df = pd.DataFrame({
         "Feature": ["Study Hours", "Attendance", "Sleep", "Mental Health", "Job"],
