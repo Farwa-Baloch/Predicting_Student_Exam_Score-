@@ -18,7 +18,7 @@ st.set_page_config(page_title="Student Predictor", layout="centered")
 # Title
 # -------------------------------
 st.title("🎓 Smart Student Exam Score Predictor")
-st.markdown("### Predict performance using AI + Lifestyle Factors")
+
 
 # -------------------------------
 # Inputs
